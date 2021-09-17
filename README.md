@@ -16,7 +16,7 @@ The dataset contained 40 features.
 * The majority of the variables are categorical and a small number of numerical, boolean and temporal features exist.
 * num_private has zeros for 99% of the rows 
 * recorded_by has only one value.
-* scheme_name has over 50% of null values
+* scheme_name has around 50% of null values
 
 ### The following features have null values
 
@@ -58,7 +58,7 @@ The dataset contained 40 features.
 * Num_private - 99% of the rows are zeros
 * region- Highly correlated with region_code   
 * Recorded_by - Has only one value for every row                                  
-* scheme_name - Over 50% of the rows has null
+* scheme_name - Around 50% of the rows has null
 * Payment - Highly correlated with payment_type  
 * quality_group- Highly correlated with water_quality    
 * quantity_group- Highly correlated with quantity  
