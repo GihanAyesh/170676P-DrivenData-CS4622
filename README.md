@@ -9,7 +9,7 @@ Github Code Link = [https://github.com/GihanAyesh/170676P-DrivenData-CS4622.git]
 
 ## Exploratory Data Analysis
 
-The dataset contained 39 features.
+The dataset contained 40 features.
 
 ### Main findings from EDA
 
